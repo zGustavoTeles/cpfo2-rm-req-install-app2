@@ -1,0 +1,36 @@
+{
+  "name": "cpfo2-rm-req-install-app",
+  "version": "3.0.5",
+  "description": "A File Opener Plugin for Cordova. (The Fork Version)",
+  "cordova": {
+    "id": "cpfo2-rm-req-install-app",
+    "platforms": [
+      "android",
+      "ios",
+      "windows",
+      "electron"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StarleyDev/cpfo2-rm-req-install-app.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-windows",
+    "cordova-electron"
+  ],
+  "engines": {
+    "cordova": ">=6.0.0"
+  },
+  "author": {
+    "name": "starlleycom@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StarleyDev/cpfo2-rm-req-install-app/issues"
+  },
+  "homepage": "https://github.com/StarleyDev/cpfo2-rm-req-install-app#readme"
+}
